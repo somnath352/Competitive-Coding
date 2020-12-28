@@ -12,3 +12,14 @@ int main(){
           cout<<"Yes"<<endl;
     }
 }
+
+
+/*Input              Output            
+5  //test case
+()                     Yes
+(?)                    No
+(??)                   Yes
+??()                   Yes
+)?(?                   No
+
+*/
